@@ -1,9 +1,8 @@
 Who I am 👨‍💻
 
-
 Hi, I am Allan Parker — a software engineer specializing in (PowerBI & SQL) working on data analytics to further business needs. 
 
-My areas of interest
+Area of Interest
 
 Power Bi Data Visualizations and Expert Builder 
 
