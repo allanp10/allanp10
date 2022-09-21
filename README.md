@@ -1,10 +1,8 @@
-- 👋 Hi, I’m @allanparker10
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+Who I am 👨‍💻
+Hi, I am Allan Parker — a software engineer specializing in (PowerBI & SQL) working on data analytics to further business needs. 
 
-<!---
-allanp10/allanp10 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+My areas of interest
+Effector — business logic with ease
+Power Bi Data Visualizations and Expert Builder 
+Get in touch
+Email: allanlevi10@icloud.com
