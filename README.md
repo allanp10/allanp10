@@ -5,8 +5,6 @@ Hi, I am Allan Parker — a software engineer specializing in (PowerBI & SQL) wo
 
 My areas of interest
 
-Effector — business logic with ease
-
 Power Bi Data Visualizations and Expert Builder 
 
 Get in touch
